@@ -23,6 +23,7 @@ body{
     cursor: pointer;
     position: relative;
     overflow: hidden;
+    font: optional;color: white;
 }
 #button3 *{
     width: 100%;
